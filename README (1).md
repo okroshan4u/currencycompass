@@ -29,7 +29,10 @@ Give a ⭐ if you like this website!
 For support, email okroshan4u@gmail.com
 
 
+
 ## Demo
 
 visit it here [currencycompass](https://currencycompass.netlify.app/) 
+
+![smartmockups_m38t1rp3](https://github.com/user-attachments/assets/ac6f5013-3a80-4aa1-836d-0743893ad740)
 
